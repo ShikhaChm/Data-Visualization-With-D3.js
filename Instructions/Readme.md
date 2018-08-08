@@ -1,4 +1,4 @@
-# Unit 16 | Assignment - Data Journalism and D3
+# Assignment - Data Journalism and D3
 
 <a target='_blank' href="https://giphy.com/gifs/newspaper-press-v2xIous7mnEYg"><img alt='Newspaper Printing (via GIPHY)' src="http://i.giphy.com/v2xIous7mnEYg.gif" /> <br><em>via GIPHY</em></a>
 
@@ -123,9 +123,3 @@ Your final product will be assessed on the following metrics:
 * Visual attraction
 
 * Professionalism
-
-**Good luck!**
-
-## Copyright
-
-Coding Boot Camp (C) 2016. All Rights Reserved.
