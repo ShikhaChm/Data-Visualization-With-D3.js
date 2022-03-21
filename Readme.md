@@ -1,4 +1,4 @@
-# Assignment - Data Journalism and D3
+# Data Journalism and D3
 
 <a target='_blank' href="https://giphy.com/gifs/newspaper-press-v2xIous7mnEYg"><img alt='Newspaper Printing (via GIPHY)' src="http://i.giphy.com/v2xIous7mnEYg.gif" /> <br><em>via GIPHY</em></a>
 
